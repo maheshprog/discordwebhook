@@ -1,5 +1,4 @@
 from discord_webhook import DiscordWebhook
-import openai
 webhook_url = input("Webhook URL: ")
 while True:
     message_content = input(">> ")
